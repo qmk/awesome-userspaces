@@ -7,8 +7,9 @@ Contributors are encouraged to update their userspace's own readme with key feat
 
 ## The List
 
-| URL                                       | Description                                                                 | Keywords                 |
-|-------------------------------------------|-----------------------------------------------------------------------------|--------------------------|
-| https://github.com/drashna/qmk_userspace  | Drashna's userspace- the home of all OLED customisations and Diablo keymaps | OLED RGB gaming          |
-| https://github.com/daskygit/qmk_userspace | Dasky's userpace- home of some very interesting pointing development        | pointing quantum-painter |
+| URL                                       | Description                                                                                 | Keywords                 |
+|-------------------------------------------|---------------------------------------------------------------------------------------------|--------------------------|
+| https://github.com/drashna/qmk_userspace  | Drashna's userspace- the home of all OLED customisations and Diablo keymaps                 | OLED RGB gaming          |
+| https://github.com/daskygit/qmk_userspace | Dasky's userspace- home of some very interesting pointing development                       | pointing quantum-painter |
+| https://github.com/333fred/qmk_userspace  | 333fred's userspace- home of a few complex tap_dance routines and a few OLED customizations | Tap-dance OLED           | 
   
